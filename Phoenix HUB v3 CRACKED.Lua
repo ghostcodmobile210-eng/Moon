@@ -4500,5 +4500,5 @@ local Credits = window:AddTab("Credits")
 Credits:AddLabel("ARTEMISA LA MEJOR ")
 Credits:AddLabel("MOANRCAxROYCEE")
 Credits:AddLabel("BY ARTEMISA  | VAL ON TOP")
-Credits:AddLabel("Hola artemisa muchisimas gracias por apoyarnos en todo lo que quisimos y esto es para usted ya que queremos devolverle todo lo que nos dio muchisimas gracias por todo lo que hizo por nosotros 2 | BY Roycee
-Se que esto sera un chiste pero lo hacemos con todo el cariño de nuestro corazón. Tal vez no sea la gran cosa pero no supimos cómo agradecerle todo lo que hace por nosotros y los chicos. La queremos mucho 💜")
+Credits:AddLabel("Hola artemisa muchisimas gracias por apoyarnos en todo lo que quisimos y esto es para usted ya que queremos devolverle todo lo que nos dio muchisimas gracias por todo lo que hizo por nosotros 2 | BY Roycee")
+Credits:AddLabel("Se que esto sera un chiste pero lo hacemos con todo el cariño de nuestro corazón. Tal vez no sea la gran cosa pero no supimos cómo agradecerle todo lo que hace por nosotros y los chicos. La queremos mucho 💜")
