@@ -13,8 +13,8 @@ print("Anti-AFK ativado!")
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SadOz8/U/main/I", true))()
 
-local window = library:AddWindow("Pheonix Hub| by Alejandro Cracked By ZTX", {
-    main_color = Color3.fromRGB(0, 0, 255),
+local window = library:AddWindow("ARTEMISA💜 | BY ROYCEExMONARCA", {
+    main_color = Color3.fromRGB(160, 32, 240),
     min_size = Vector2.new(650, 870),
     can_resize = true,
 })
@@ -4497,7 +4497,8 @@ end)
 
 local Credits = window:AddTab("Credits")
 
-Credits:AddLabel("paid version cracked by ztx")
-Credits:AddLabel("Script Made by username:")
-Credits:AddLabel("Demon_misteriousX clown | ZTX ON TOP")
-Credits:AddLabel("I hope you like the script, for bugs or suggestions on my discord server")
+Credits:AddLabel("ARTEMISA LA MEJOR ")
+Credits:AddLabel("MOANRCAxROYCEE")
+Credits:AddLabel("BY ARTEMISA  | VAL ON TOP")
+Credits:AddLabel("Hola artemisa muchisimas gracias por apoyarnos en todo lo que quisimos y esto es para usted ya que queremos devolverle todo lo que nos dio muchisimas gracias por todo lo que hizo por nosotros 2 | BY Roycee
+Se que esto sera un chiste pero lo hacemos con todo el cariño de nuestro corazón. Tal vez no sea la gran cosa pero no supimos cómo agradecerle todo lo que hace por nosotros y los chicos. La queremos mucho 💜")
