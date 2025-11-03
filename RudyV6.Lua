@@ -74,7 +74,7 @@ if not loaded or not library then
 end
 
 -- Create Main Window and Tabs
-local newWindow = library:AddWindow("Sen â€¢ Paid Script", {
+local newWindow = library:AddWindow("Monark Paid Script", {
     main_color = Color3.fromRGB(30, 30, 30),
     min_size = Vector2.new(500, 300),
     can_resize = false,
@@ -632,4 +632,5 @@ task.spawn(function()
             char.Head:Destroy()
         end
     end
+
 end)
