@@ -16,7 +16,7 @@ Player.Idled:Connect(preventAFK)
 
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/OMEGADEZZ/libreria-hz/refs/heads/main/libreria", true))()
 
-local window = library:AddWindow("RUDY MUCK HUB | PAID Ultra Premiun / By Monark", {
+local window = library:AddWindow("OMEGADEZZ HUB | PAID Ultra Premiun / By HonnyDezz", {
     main_color = Color3.fromRGB(255, 119, 0),
     min_size = Vector2.new(710, 780),
     can_resize = true,
@@ -4500,8 +4500,7 @@ end)
 
 local Credits = window:AddTab("CREDITOS")
 
-Credits:AddLabel("RUDY MUCK Paid / Script OP")
+Credits:AddLabel("OMEGADEZZ Paid / Script OP")
 Credits:AddLabel("Script Creado por:")
-Credits:AddLabel("MONARCA / Colaborador ANDRE")
-Credits:AddLabel("VETE AL CHILE SI DICES QUE ESTA FEO")
-
+Credits:AddLabel("HonnyDezz / Colaborador Arlexuin")
+Credits:AddLabel("Discord : https://discord.gg/TQchfR6wse")
