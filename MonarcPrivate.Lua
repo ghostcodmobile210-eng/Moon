@@ -4500,8 +4500,9 @@ end)
 
 local Credits = window:AddTab("CREDITOS")
 
-Credits:AddLabel("OMEGADEZZ Paid / Script OP")
+Credits:AddLabel("DarkPhoenix Paid / Script OP")
 Credits:AddLabel("Script Creado por:")
-Credits:AddLabel("HonnyDezz / Colaborador Arlexuin")
-Credits:AddLabel("Discord : https://discord.gg/TQchfR6wse")
+Credits:AddLabel("Monarca / Colaborador Alexander")
+Credits:AddLabel("Vete al chile")
+
 
