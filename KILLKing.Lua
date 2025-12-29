@@ -18,15 +18,18 @@ local displayName = player.DisplayName or player.Name
 
 local window = library:AddWindow("Private Kill King | Hello " .. displayName, {
     main_color = Color3.fromRGB(0, 0, 0),
-    min_size = Vector2.new(380, 700),
+    min_size = Vector2.new(400, 720),
     can_resize = false,
 })
 
-task.wait()
+task.wait(0.1)
 
-local scale = Instance.new("UIScale")
-scale.Scale = 0.78
-scale.Parent = window.Main or window.Frame or window
+local mainFrame = window.Main or window.Frame
+if mainFrame then
+    local scale = Instance.new("UIScale")
+    scale.Scale = 0.88
+    scale.Parent = mainFrame
+end
 
 -- ================================================================
 --                          SERVICES
