@@ -18,7 +18,7 @@ local displayName = player.DisplayName or player.Name
 
 local window = library:AddWindow("Private Kill King | Hello " .. displayName, {
     main_color = Color3.fromRGB(0, 0, 0),
-    min_size = Vector2.new(650, 870),
+    min_size = isMobile and Vector2.new(420, 720) or Vector2.new(650, 870),
     can_resize = true,
 })
 
